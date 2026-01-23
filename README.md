@@ -158,11 +158,9 @@ Focused on building **RAG systems**, AI agents, and end‑to‑end solutions fro
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 21 January 2026
+From: 23 December 2025 - To: 22 January 2026
 
-JavaScript   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀   77.12 %
-Other        2 mins          ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.39 %
-JSON         1 min           ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.49 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
