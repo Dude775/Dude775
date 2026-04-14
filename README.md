@@ -153,20 +153,6 @@ Focused on building **RAG systems**, AI agents, and end‑to‑end solutions fro
 
 ---
 
-### 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 14 March 2026 - To: 13 April 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
 
 ### 💬 Random Dev Quote
