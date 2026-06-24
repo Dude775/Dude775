@@ -1,10 +1,10 @@
 <div align="center">
   
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=David%20Rubin&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=DevOps%20Engineering%20Student%20|%20Linux%20to%20Kubernetes%20|%20IITC%20College&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=David%20Rubin&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=fff&desc=DevOps%20Engineer%20|%20Linux%20to%20Kubernetes%20|%20AWS%20|%20IITC%20College&descAlignY=55&descSize=18" />
 
 <!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=DevOps+Engineering+Student+%F0%9F%9A%80;Linux+%7C+Flask+%7C+AWS+%7C+Docker+%7C+K8s;From+Ramat+Gan%2C+Israel+%F0%9F%87%AE%F0%9F%87%B1;Building+Infrastructure+Skills+Every+Day" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Training+%F0%9F%9A%80;Docker+%7C+Kubernetes+%7C+AWS+%7C+CI%2FCD+%7C+Helm;From+Ramat+Gan%2C+Israel+%F0%9F%87%AE%F0%9F%87%B1;Building+Infrastructure+Every+Day" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -23,11 +23,11 @@
 
 ### 👨‍💻 About Me in Code
 
-**David Rubin** - DevOps Engineering Student at IITC College, Ramat Gan, Israel.  
-Full-time bootcamp (621h, Feb-Jul 2026). Building infrastructure skills from Linux to Kubernetes.
+**David Rubin** - DevOps Engineer in training at IITC College, Ramat Gan, Israel.  
+Full-time bootcamp (621h, Feb-Aug 2026). Building infrastructure from Linux to production Kubernetes.
 
-- Currently completing Advanced Python + Flask API + Networking Fundamentals module.
-- Background in ERP implementation (SAP B1, Priority) and AI automation (31 production workflows).
+- Currently deep in Advanced AWS: ECS, ECR, and EKS deployments.
+- Background: 3 years ERP implementation (SAP B1, Priority) + production automation projects (Docker, Python, n8n).
 - Preparing for AWS Certified Cloud Practitioner (CLF-C02) certification.
 - Documenting the entire journey publicly in [DevOps Field Guide](https://github.com/Dude775/devops-field-guide).
 
@@ -38,55 +38,54 @@ Full-time bootcamp (621h, Feb-Jul 2026). Building infrastructure skills from Lin
 
 </div>
 
-📚 Full-time DevOps bootcamp at IITC College (621h intensive)
+📦 Advanced AWS - containerized deployments with ECS, ECR, and EKS
 
-🐍 Flask REST APIs with Blueprints, MongoDB, error handling
+☸️ Kubernetes manifests, Helm charts, and production-style cluster work
 
-🌐 Networking fundamentals: HTTP/HTTPS, DNS, TCP/IP, Load Balancing
+🔁 CI/CD pipelines - build, test, deploy automation
 
-🛠️ Building devops-field-guide as a portfolio artifact for future job search
+🛠️ Building devops-field-guide as a portfolio artifact for the job search
 
 ---
 
 ### 🛠️ Technology Arsenal
 
 <details open>
-<summary><b>🎨 Languages & Frameworks</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🤖 AI & Automation (Background)</b></summary>
-<br/>
-
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Systems-FF6B6B?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector_DB-4285F4?style=for-the-badge)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Infrastructure (Learning)</b></summary>
+<summary><b>☁️ DevOps & Cloud</b></summary>
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white) (upcoming)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 </details>
+
+<details open>
+<summary><b>🔁 CI/CD & Tooling</b></summary>
+<br/>
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Languages & Data</b></summary>
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+</details>
+
+> 💡 Background also includes ERP systems implementation and AI automation (RAG, LangChain, n8n) from earlier roles.
 
 ---
 
